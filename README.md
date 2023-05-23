@@ -1,2 +1,2 @@
-# face-recoginition
-Face recoginition _deep learning face
+# face-recognition
+Face recognition _deep learning face
